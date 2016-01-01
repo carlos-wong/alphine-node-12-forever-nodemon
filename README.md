@@ -13,3 +13,6 @@ Replace `FILENAME_HERE` with your nodejs app executable.
 ## Step Two
 Use the `-v` (volume) flag to mount your app directory to `/usr/src/app`.
 
+Example:
+> docker run -it --rm -v $(pwd):/usr/src/app francolaiuppa/docker-nodemon-forever
+
