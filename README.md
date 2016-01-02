@@ -1,6 +1,6 @@
 # docker-nodemon-forever
 node:5.3 image with nodemon &amp; forever for livereload-like experience.
-For more info please check [http://francolaiuppa.com/2015/11/14/dockerfile-for-nodejs-development-with-nodemon-and-forever/](http://francolaiuppa.com/2015/11/14/dockerfile-for-nodejs-development-with-nodemon-and-forever/).
+For more info please check [this blog post](http://francolaiuppa.com/2015/11/14/dockerfile-for-nodejs-development-with-nodemon-and-forever/).
 
 ## How to use
 
